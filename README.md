@@ -1,5 +1,3 @@
-# Banking-Data-Analysis-with-Pandas
-
 # Data Analysis with Pandas Fundamentals in Banking
 
 ## Overview
